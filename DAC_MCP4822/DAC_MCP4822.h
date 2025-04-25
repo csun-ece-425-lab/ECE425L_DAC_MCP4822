@@ -39,9 +39,9 @@ void SSI0_Output_Data(uint16_t data);
  *
  * @param uint16_t data
  *
- * @param uint8_t gain_select
+ * @param uint8_t channel_select
  *
- * @param uint8_t command
+ * @param uint8_t gain_select
  *
  * @return None
  */
